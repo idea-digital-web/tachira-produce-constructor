@@ -43,7 +43,7 @@ function storefront_site_branding() {
 }
 
 /**
-Agregar Banner en el Header
+ * Agregar Banner en el Header
 */
 
 function banner_header() {

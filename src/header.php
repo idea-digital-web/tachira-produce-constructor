@@ -13,12 +13,11 @@
 <!--[if gt IE 8]><!--> <html class="no-js" <?php language_attributes(); ?>> <!--<![endif]-->
 <head>
 <meta charset="<?php bloginfo( 'charset' ); ?>">
-<!-- <title><?php bloginfo('name');?> | <?php bloginfo('description');?><?php wp_title( '|', true, 'left' ); ?></title> -->
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 
 <!-- SEO -->
-<?php get_template_part( 'templates/seo'); ?>
+<!-- <?php get_template_part( 'templates/seo'); ?> -->
 <!-- End SEO -->
 
 <!-- Viewport -->
@@ -42,7 +41,7 @@
 <body <?php body_class(); ?>>
 
 <!-- Google Analitics -->
-<!-- <?php include_once('templates/analyticstracking.php') ?> -->
+<?php include_once('templates/analyticstracking.php') ?>
 
 <!-- Browse Happy -->
 <?php get_template_part( 'templates/browsehappy' ); ?>

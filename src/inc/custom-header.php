@@ -36,7 +36,7 @@ function storefront_site_branding() {
 	?>
 		<div class='logo_header'>
 			<a href="<?php echo esc_url( home_url( '/' ) ); ?>" rel="home">
-				<img src="http://i1.wp.com/tachiraproduceyexporta.com/wp-content/uploads/2016/08/logo-header.png" alt="Logo Header">
+				<img src="http://i0.wp.com/tachiraproduceyexporta.com/wp-content/uploads/2016/09/logo.png" alt="Logo Header">
 			</a>
 		</div>
 	<?php 

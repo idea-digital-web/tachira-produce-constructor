@@ -30,12 +30,7 @@
 	<h2>
 	Mensaje Directo
 	</h2>
-
-	<?php if (function_exists("localhost")) {
-	if (function_exists("add_formcraft_form")) { add_formcraft_form("[fc id='1'][/fc]"); };
-	} else {
-	if (function_exists("add_formcraft_form")) { add_formcraft_form("[fc id='5'][/fc]"); };
-	} ?>
+	<?php get_template_part( 'templates/footer', 'formcraft'); ?>
 </div>
 <div class="site-footer__item">
 	<h2>
@@ -51,6 +46,6 @@
 	</div>
 	<div class="site-footer__item--contact">
 		<i class="fa fa-envelope"></i>
-		<span class="email"><?php get_template_part( 'templates/add', 'email'); ?></span>
+		<span class="email"><?php bloginfo('admin_email'); ?></span>
 	</div>
 </div>

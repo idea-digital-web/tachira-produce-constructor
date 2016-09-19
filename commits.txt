@@ -1,3 +1,9 @@
+commit c99262bcd057b2df663c74c860038e00624f11bc
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Mon Sep 19 11:00:16 2016 -0400
+
+    Cambiado loge-header
+
 commit d7de3100ebc4b9f512f080b86b8e3200dba799b2
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Thu Sep 15 11:52:10 2016 -0400

@@ -4,7 +4,7 @@
 	Nosotros
 	</h2>
 	<picture>
-		<img src="http://i0.wp.com/tachiraproduceyexporta.com/wp-content/uploads/2016/09/logo.png" alt="Logo Footer"/>
+		<img src="http://i0.wp.com/tachiraproduceyexporta.com/wp-content/uploads/2016/09/logo-footer.png" alt="Logo Footer"/>
 	</picture>
 	<p><?php bloginfo('description'); ?></p>
 	<span class="cards hidden">

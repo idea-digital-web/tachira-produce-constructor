@@ -49,7 +49,7 @@ function storefront_site_branding() {
 function banner_header() {
 	?>
 		<picture>
-			<img src="http://i2.wp.com/tachiraproduceyexporta.com/wp-content/uploads/2016/09/banner-header.png" alt="Banner Header">
+			<img src="http://i0.wp.com/tachiraproduceyexporta.com/wp-content/uploads/2016/09/banner-header.jpg" alt="Banner Header">
 		</picture>
 	<?php 
 }

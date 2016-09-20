@@ -6,11 +6,6 @@
 	<picture>
 		<img src="http://i0.wp.com/tachiraproduceyexporta.com/wp-content/uploads/2016/09/logo-footer.png" alt="Logo Footer"/>
 	</picture>
-	<!-- <p><?php bloginfo('description'); ?></p> -->
-	<span class="cards hidden">
-		<i class="fa fa-cc-visa fa-3x"></i>
-		<i class="fa fa-cc-mastercard fa-3x"></i>
-	</span>
 </div>
 <div class="site-footer__item">
 	<h2>Categorías</h2>

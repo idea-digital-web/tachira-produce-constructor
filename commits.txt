@@ -1,3 +1,9 @@
+commit e91b1e73d3435c4ddd057ca10e4d55246ce824d6
+Author: Alex Ballera <alexballera@gmail.com>
+Date:   Tue Sep 20 17:59:07 2016 -0400
+
+    Cambiado banner content y header
+
 commit 50cfd464bf8a05a66fb00a7b9666a40309927e56
 Author: Alex Ballera <alexballera@gmail.com>
 Date:   Tue Sep 20 10:47:03 2016 -0400
